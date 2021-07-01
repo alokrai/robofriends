@@ -4,4 +4,4 @@
 
 A simple image gallery built using React.
 
-Live: https://raialok.github.io/robofriends/
+Live: https://alok.github.io/robofriends/
