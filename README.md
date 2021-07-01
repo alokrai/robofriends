@@ -8,4 +8,4 @@ Live: https://alokrai.github.io/robofriends/
 
 An simple image gallery built using React. The goal was to learn various features of React by building a small project.
 
-
+License: MIT
